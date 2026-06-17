@@ -8,25 +8,25 @@ EM300 eliminates the limitations of traditional industrial gateways such as fixe
 
 2. Core Functions
 
-1) Edge Computing
-Enables real-time industrial data acquisition, preprocessing, and local processing for control logic execution.
+  1) Edge Computing
+  Enables real-time industrial data acquisition, preprocessing, and local processing for control logic execution.
 
-2) Visual Programming
-Provides a browser-based Node-RED visual programming environment for industrial logic configuration and low-code application development.
+  2) Visual Programming
+  Provides a browser-based Node-RED visual programming environment for industrial logic configuration and low-code application development.
 
-3) Protocol Conversion
-Enables interoperability between industrial systems.
-PLC Protocols: Siemens, Mitsubishi (MELSEC), Omron, LS Electric, Allen-Bradley, Delta, and more.
-CNC Protocols: Siemens, MELSEC, Mazak, Heidenhain, Haas, KND, LNC, and more.
-Industrial Protocols: Modbus RTU / TCP, OPC UA, BACnet, IEC104, IEC61850, CJ188, DL/T645, HJ212.
-Network Protocols: MQTT / HTTP / TCP / UDP/ Websocket communication handling.
+  3) Protocol Conversion
+  Enables interoperability between industrial systems.
+  PLC Protocols: Siemens, Mitsubishi (MELSEC), Omron, LS Electric, Allen-Bradley, Delta, and more.
+  CNC Protocols: Siemens, MELSEC, Mazak, Heidenhain, Haas, KND, LNC, and more.
+  Industrial Protocols: Modbus RTU / TCP, OPC UA, BACnet, IEC104, IEC61850, CJ188, DL/T645, HJ212.
+  Network Protocols: MQTT / HTTP / TCP / UDP/ Websocket communication handling.
 
-4) Industrial Networking
-Provides stable industrial communication infrastructure. Supports LTE 4G / WiFi6 / WAN / LAN.
-VPN and firewall support.
+  4) Industrial Networking
+  Provides stable industrial communication infrastructure. Supports LTE 4G / WiFi6 / WAN / LAN.
+  VPN and firewall support.
 
-5) Modular I/O Expansion
-EM300 supports flexible industrial I/O expansion through multiple modular units with configurable combinations, compact blade-style installation, millisecond-level response, and scalability of up to 16 modules.
+  5) Modular I/O Expansion
+  EM300 supports flexible industrial I/O expansion through multiple modular units with configurable combinations, compact blade-style installation, millisecond-level response, and scalability of up to 16 modules.
 
 3. Hardware Interfaces
 4× RS485 / 2× DI / 2× DO / 1× USB 2.0 / 1× WAN / 2× LAN
